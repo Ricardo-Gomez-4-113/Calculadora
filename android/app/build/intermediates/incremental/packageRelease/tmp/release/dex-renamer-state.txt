@@ -1,0 +1,4 @@
+#Fri Nov 06 15:50:20 CST 2020
+base.0=C\:\\Users\\Diego Gomez\\Documents\\Android\\hola_mundo\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
